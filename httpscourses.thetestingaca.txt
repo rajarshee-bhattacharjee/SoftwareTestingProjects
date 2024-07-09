@@ -1,0 +1,27 @@
+https://courses.thetestingaca
+https://courses.thetestingacademy.com/courses/sdet-club-masterclasses-1337/contents/653375fee0187
+https://courses.thetestingacademy.com/courses/sdet-club-masterclasses-1337/contents/653375fee0187
+https://courses.thetestingacademy.com/courses/sdet-club-masterclasses-1337/contents/653375fee0187
+https://docs.google.com/forms/d/e/1FAIpQLSdr8F8m7jmIl6pdqezE0LZ8kphE2-ZpUTjBc9YxSBbsUjONaA/viewform
+https://courses.thetestingacademy.com/courses/software-tester-blueprint/dashboard
+https://courses.thetestingacademy.com/courses/sdet-club-masterclasses-1337/dashboard
+https://courses.thetestingacademy.com/courses/7x-live-job-ready-automation-tester-blueprint-with-java-by-pramod-dutta/dashboard (Live classes)
+https://docs.google.com/forms/d/e/1FAIpQLSeiwQkrdV0t96y9TB7vsOjCDw3_zncRmvZSTsDvTQAlMTqJCg/viewform (Attendance)
+https://forms.gle/DCLrEPqsEJa6vXSa9 (Asking Questions)
+https://sdet.club/wiki/52834265-236f-40a2-bb2d-a70e849f58e3 (Smart Goals)
+email - contact@thetestingacademy.com (For specific doubts) subject line -atb7x with problem
+Interpreter - line by line
+Compiler - one go
+source code -> java compiler -> machine code -> JVM -> native code(windows,linux,mac)- both compilation and interpretation
+byte code - platform independent and jvm -plaform dependent
+JDK - for development java applications
+JRE - to execute your java program not develop
+JVM - for executing 
+ssi jdk - windows
+dmg jdk- mac
+download the community edition for intellije
+Path param - https://www.google.com:443/pramod/atb/1
+Query Param - https://www.google.com:443/pramod/atb?name="amit"
+anchor tag - #somewhereinthedocument
+
+Chome devtools video need to see
